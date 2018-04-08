@@ -6,5 +6,6 @@
 # Часть 2
 # 1 https://github.com/Tuboltseva/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%2014.01.38.png
 # 2 https://github.com/Tuboltseva/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%2014.10.08.png
-do/make decision
-# do harm / make mistake
+оба синонима do/make используются со словом decision
+# 
+do используется с harm / make -  mistake, но не наоборот 
